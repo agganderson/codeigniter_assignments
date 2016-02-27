@@ -1,0 +1,14 @@
+{
+  "name": "mbcss",
+  "homepage": "https://github.com/mikelim098098/mikes_bower_css",
+  "_release": "01b5fe1cd5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "01b5fe1cd571e9a3961c5092a4c01a4d72e10579"
+  },
+  "_source": "git://github.com/mikelim098098/mikes_bower_css.git",
+  "_target": "*",
+  "_originalSource": "mbcss",
+  "_direct": true
+}

@@ -1,0 +1,10 @@
+#pokemon {
+	width: 400px;
+	display: inline-block;
+}
+
+#dex {
+	width: 200px;
+	border: solid red 2px;
+	display: inline-block;
+}
